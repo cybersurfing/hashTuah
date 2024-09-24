@@ -1,5 +1,5 @@
 {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "hashes":
     [
         "6ef5dbef3afceb8db8020726211ce5b9735f0a6394c7abce6d4c37cb297df55b",
@@ -87,6 +87,14 @@
         "bdee38d4-fecf-4329-a1ef-4415cf0af31b",
         "b7a51e1f-7b03-4a4f-8fb9-a62bc72b33ef",
         "1f700f3f-e088-475d-a7f2-830df7a3640d",
-        "0078ff27-5e76-4d38-b61d-3c9734eb275f"
+        "0078ff27-5e76-4d38-b61d-3c9734eb275f",
+        "63b6550a-2b49-4197-a64a-ae71999619cb",
+        "f4be6777-9595-42f6-b06e-b37048adb3bd",
+        "032ae09f-da54-4b8a-a340-244ce18557eb",
+        "95c8fad6-223b-4bee-acf3-2202ff6961dc",
+        "7fe355eb-4a0f-41fe-a1ca-d18cb221d3f1",
+        "5725f30f-f4e7-45e4-b09f-57702edae7f0",
+        "5e4d8bc7-769b-4b93-baba-6769aa1f8978",
+        "5bc100c0-9d00-4cbc-8d43-891e02223c50"
     ]
 }
